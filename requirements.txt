@@ -1,0 +1,8 @@
+diffusers==0.21.0
+torch==2.0.1
+pytorch_lightning
+accelerate
+transformers==4.25.0
+xformers    
+loralib
+fairscale
